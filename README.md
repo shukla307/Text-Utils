@@ -1,4 +1,4 @@
-# Text-Utils
+# TextUtils
 
 Welcome to TextUtils – Your Ultimate Text Manipulation Tool!
 
