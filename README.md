@@ -34,7 +34,8 @@ Curious about the size of your text? Quickly find out the character count to gai
 
 <img width="780" alt="image" src="https://github.com/shukla307/Text-Utils/assets/78009394/5e979d7d-81d4-4976-8956-f121b484385b">
 
-<img width="567" alt="image" src="https://github.com/shukla307/Text-Utils/assets/78009394/495871fc-17a4-4503-ab85-e571e88a31a1">
+<img width="567" alt="image" src="https://github.com/shukla307/Text-Utils/assets/78009394/5355ae83-7a7e-42ec-b36d-94e003e0eaf5">
+
 
 
 
