@@ -30,6 +30,22 @@ Curious about the size of your text? Quickly find out the character count to gai
    - Click "Analyze Text" to witness the magic!
 
 
+<img width="1074" alt="image" src="https://github.com/shukla307/Text-Utils/assets/78009394/7aa20fe4-b624-46a6-82a5-487e8660429f">
+
+
+
+<img width="1073" alt="image" src="https://github.com/shukla307/Text-Utils/assets/78009394/2e320586-a550-43c7-8b18-b9a5399720e2">
+
+
+<img width="1017" alt="image" src="https://github.com/shukla307/Text-Utils/assets/78009394/7c7b2444-4c4e-48f0-b42a-7a086972e21e">
+
+
+<img width="701" alt="image" src="https://github.com/shukla307/Text-Utils/assets/78009394/f93c3006-3868-48ab-8879-32d06b6bcbc7">
+
+
+
+
+
 <img width="797" alt="image" src="https://github.com/shukla307/Text-Utils/assets/78009394/2be60b3d-5f3d-48bf-9f7a-5fe18daf8fab">
 
 <img width="780" alt="image" src="https://github.com/shukla307/Text-Utils/assets/78009394/5e979d7d-81d4-4976-8956-f121b484385b">
