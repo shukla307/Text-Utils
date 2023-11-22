@@ -4,6 +4,9 @@ Welcome to TextUtils – Your Ultimate Text Manipulation Tool!
 
 TextUtils is a Django-based web application that empowers you to effortlessly perform various text operations, making your text processing tasks a breeze. Whether you want to clean up messy text or analyze character counts, TextUtils has got you covered.
 
+## Used:
+- Python | Django | html | css
+  
 ## Features
 
 ### Remove Punctuations
